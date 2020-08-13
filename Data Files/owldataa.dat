@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>owldataa</name>
+   <tag></tag>
+   <containsHeaders>false</containsHeaders>
+   <csvSeperator>COMMA</csvSeperator>
+   <dataFileGUID>fdc65d89-b710-4ddc-856d-6e36ce3cd240</dataFileGUID>
+   <dataSourceUrl>Data Files/employees.csv</dataSourceUrl>
+   <driver>CSV</driver>
+   <isInternalPath>true</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>
